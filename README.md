@@ -1,2 +1,2 @@
-# TensorFlow-Notebooks
-Educational ML Notebooks on Deep Learning with TensorFlow and Keras
+# Machine Learning Educational Notebooks
+Feel free to browse and read notebooks!
